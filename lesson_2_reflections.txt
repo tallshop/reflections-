@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+# When you initialize a repository terminal pumps out a message stating that the git repository is empty.  You can then check the status of the repository with the command git status.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+# The staging area allows the user to confirm if the commit should be made.  Similar to a confirm before pay page from an online ordering site.
+
